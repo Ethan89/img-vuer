@@ -2,7 +2,7 @@
 
 > An image viewer base on Vue.js for mobile 
 
-**Note: Forked from https://github.com/ssshooter/img-vuer. Add 310ms timeout when disappear**
+**Note: Forked from https://github.com/ssshooter/img-vuer. Add 305ms timeout when disappear**
 
 :ok_woman: Easy to use    
 :point_right: Swipe gesture    
