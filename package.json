@@ -1,5 +1,5 @@
 {
-  "name": "img-vuer",
+  "name": "img-vuer-2",
   "description": "img viewer",
   "version": "0.12.1",
   "author": "zhoudejie <ssshooterx@gmail.com>",
@@ -36,5 +36,14 @@
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1",
     "vue-scroller": "^2.2.4"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan89/img-vuer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ethan89/img-vuer/issues"
+  },
+  "homepage": "https://github.com/Ethan89/img-vuer#readme"
 }
