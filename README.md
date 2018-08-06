@@ -2,6 +2,8 @@
 
 > An image viewer base on Vue.js for mobile 
 
+**Note: Forked from https://github.com/ssshooter/img-vuer. Add 310ms timeout when disappear**
+
 :ok_woman: Easy to use    
 :point_right: Swipe gesture    
 :mag: Zoom gesture     
@@ -58,3 +60,5 @@ Add meta
 should not use index as key for component that added `v-gallery`
 ## License
 MIT  
+
+

@@ -72,8 +72,11 @@ export default {
   },
   methods: {
     closeGallery() {
-      this.isShow = false
-      this.$refs.img[this.currentIndex].reset()
+      let that = this
+      setTimeout(() => {
+        that.isShow = false
+        that.$refs.img[this.currentIndex].reset()
+      }, 305);
     },
     handlePressMove(e, el) {
       e.preventDefault()
