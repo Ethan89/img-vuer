@@ -76,7 +76,7 @@ export default {
       setTimeout(() => {
         that.isShow = false
         that.$refs.img[this.currentIndex].reset()
-      }, 305);
+      }, 310);
     },
     handlePressMove(e, el) {
       e.preventDefault()
